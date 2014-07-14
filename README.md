@@ -57,6 +57,6 @@ Many more commands available...
 - **License**:  For protection of M-Wave.
 - **About**: About M-Wave
 
-[DEPENDENCIES] (https://github.com/j809/Mwave/blob/master/Mwave/README.txt)
+[DEPENDENCIES] (https://github.com/Perfect-Strangers/Mwave/blob/master/Mwave/README.txt)
 
-[LICENSE] (https://github.com/j809/Mwave/blob/master/Mwave/LICENSE.txt)
+[LICENSE] (https://github.com/Perfect-Strangers/Mwave/blob/master/Mwave/LICENSE.txt)
